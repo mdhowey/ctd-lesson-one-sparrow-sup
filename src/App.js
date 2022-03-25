@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 const importantConcepts = [
   {
     title: "Functions are first-class citizens in JavaScript",
